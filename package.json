@@ -1,0 +1,10 @@
+{
+  "name": "cdk_cdn_reuse",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:harshit9715/cdk_cdn_reuse.git",
+  "author": "harshit9715 <harshit9715@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["apps/*"]
+}
